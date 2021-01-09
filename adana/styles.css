@@ -1,0 +1,198 @@
+
+
+
+<#colored-writing {
+  color: #FF9D02 !important;
+}
+
+#set-background {
+  background: url(../images/Tasarim-1.png);
+  background-position: right;
+  width: 100%;
+  height: 555px;
+  background-repeat: no-repeat;
+}
+
+.fixed-top {
+  left: 160px !important;
+  right: 100px !important;
+  top: 10px !important;
+}
+
+.styling {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 22px;
+  /* identical to box height */
+}
+
+.important {
+  padding: 90px 90px 0px 90px !important;
+}
+
+.heading {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height */
+  color: #FF9D02;
+}
+
+.heading-writing {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 45px;
+  color: #8E8E8E;
+}
+
+.btn-default.get-started-button {
+  background: #FF9D02;
+  box-shadow: 0px 20px 80px rgba(255, 157, 2, 0.3);
+  border-radius: 50px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #fff;
+}
+
+.black-writing {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 80px;
+}
+
+#colored-writing {
+  color: #FF9D02;
+}
+
+.section-heading{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 60px;
+}
+.colored-writing-2{
+  color: #FF9D02;
+}
+.content-writing{
+  font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 25px;
+color: #8E8E8E;
+}
+.btn-default.view-button{
+  background: #E5E5E5;
+border: 3px solid #FF9D02;
+box-sizing: border-box;
+border-radius: 50px;
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: 10px;
+letter-spacing: 0em;
+text-align: left;
+color: #FF9D02;
+}
+.centered{
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 60px;
+  text-align: center !important;
+}
+.popular-image{
+  border-radius: 10px;
+}
+#centered{
+  margin-top: 60px;
+}
+.owl-dot.active span{
+  background: #FF9D02 !important;
+}
+.feature-explanation {
+  font-family: 'Poppins', sans-serif;
+font-size: 15px;
+font-style: normal;
+font-weight: 600;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+color: #232323;
+}
+.explanation{
+font-family: 'Poppins', sans-serif;
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+color: #8E8E8E;
+}
+#most-popular-food{
+  background: linear-gradient(180deg, rgba(255, 248, 232, 0.1) -42%, rgba(255, 248, 232, 0.5) 103.22%);
+}
+#why-choose-our-food{
+  background: linear-gradient(180deg, rgba(255, 248, 232, 0.1) -42%, rgba(255, 248, 232, 0.5) 103.22%) !important;
+}
+#customers-say{
+  background: linear-gradient(180deg, rgba(255, 248, 232, 0.1) -42%, rgba(255, 248, 232, 0.5) 103.22%) !important;
+}
+#white-section{
+  background: #FFFFFF;
+box-shadow: 20px 30px 50px rgba(0, 0, 0, 0.1);
+border-radius: 30px;
+}
+#footer{
+  background: #FFFCF5;
+}
+.footer-heading{
+  font-family: 'Poppins', sans-serif;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+}
+.footer-writing{
+font-family: 'Poppins', sans-serif;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+color: #8E8E8E;
+}
+.icon{
+  width: 20px;
+  height: 20px;
+}
+.last-item{
+  position: absolute;
+width: 100px;
+height: 100px;
+left: 0px;
+top: 2810px;
+
+background: url(about-01.png);
+transform: rotate(4.25deg);
+}
